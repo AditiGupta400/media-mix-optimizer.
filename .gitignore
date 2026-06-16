@@ -1,0 +1,10 @@
+# Ignore local Python environment/cache files
+__pycache__/
+*.pyc
+
+# Ignore local temporary image plots
+*.png
+
+# Ignore system files
+.DS_Store
+Thumbs.db
